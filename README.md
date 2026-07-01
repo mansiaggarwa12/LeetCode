@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+## String
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
