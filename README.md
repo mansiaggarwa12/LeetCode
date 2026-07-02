@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mansiaggarwa12/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0724-find-pivot-index](https://github.com/mansiaggarwa12/LeetCode/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/mansiaggarwa12/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
