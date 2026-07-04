@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mansiaggarwa12/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/mansiaggarwa12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0724-find-pivot-index](https://github.com/mansiaggarwa12/LeetCode/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mansiaggarwa12/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/mansiaggarwa12/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/mansiaggarwa12/LeetCode/tree/master/0724-find-pivot-index) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mansiaggarwa12/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
