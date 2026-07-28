@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mansiaggarwa12/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1143-longest-common-subsequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mansiaggarwa12/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/mansiaggarwa12/LeetCode/tree/master/0443-string-compression) |
+| [1143-longest-common-subsequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
