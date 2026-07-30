@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansiaggarwa12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/mansiaggarwa12/LeetCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/mansiaggarwa12/LeetCode/tree/master/0396-rotate-function) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/mansiaggarwa12/LeetCode/tree/master/0561-array-partition) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mansiaggarwa12/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0322-coin-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/mansiaggarwa12/LeetCode/tree/master/0396-rotate-function) |
 | [1143-longest-common-subsequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mansiaggarwa12/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
