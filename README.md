@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mansiaggarwa12/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/mansiaggarwa12/LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/mansiaggarwa12/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/mansiaggarwa12/LeetCode/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0860-lemonade-change) |
 ## Binary Search
 |  |
 | ------- |
