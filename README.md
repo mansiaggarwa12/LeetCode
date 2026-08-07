@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/mansiaggarwa12/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/mansiaggarwa12/LeetCode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/mansiaggarwa12/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansiaggarwa12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mansiaggarwa12/LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/mansiaggarwa12/LeetCode/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/mansiaggarwa12/LeetCode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/mansiaggarwa12/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0917-reverse-only-letters](https://github.com/mansiaggarwa12/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mansiaggarwa12/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/mansiaggarwa12/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/mansiaggarwa12/LeetCode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0860-lemonade-change) |
 ## Binary Search
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mansiaggarwa12/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/mansiaggarwa12/LeetCode/tree/master/0049-group-anagrams) |
+| [0455-assign-cookies](https://github.com/mansiaggarwa12/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/mansiaggarwa12/LeetCode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mansiaggarwa12/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/mansiaggarwa12/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
