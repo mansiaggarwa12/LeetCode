@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/1140-stone-game-ii) |
+| [1408-string-matching-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/mansiaggarwa12/LeetCode/tree/master/1652-defuse-the-bomb) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/mansiaggarwa12/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1143-longest-common-subsequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/mansiaggarwa12/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [1408-string-matching-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [2000-reverse-prefix-of-word](https://github.com/mansiaggarwa12/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3163-string-compression-iii](https://github.com/mansiaggarwa12/LeetCode/tree/master/3163-string-compression-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/mansiaggarwa12/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [1408-string-matching-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1408-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
