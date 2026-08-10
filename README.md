@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1510-stone-game-iv](https://github.com/mansiaggarwa12/LeetCode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mansiaggarwa12/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mansiaggarwa12/LeetCode/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mansiaggarwa12/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mansiaggarwa12/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mansiaggarwa12/LeetCode/tree/master/1510-stone-game-iv) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -277,8 +280,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mansiaggarwa12/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mansiaggarwa12/LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mansiaggarwa12/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mansiaggarwa12/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
