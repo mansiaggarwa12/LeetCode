@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/mansiaggarwa12/LeetCode/tree/master/0561-array-partition) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mansiaggarwa12/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/mansiaggarwa12/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/mansiaggarwa12/LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mansiaggarwa12/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mansiaggarwa12/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/mansiaggarwa12/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/1140-stone-game-ii) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mansiaggarwa12/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mansiaggarwa12/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/mansiaggarwa12/LeetCode/tree/master/0561-array-partition) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mansiaggarwa12/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/mansiaggarwa12/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/mansiaggarwa12/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mansiaggarwa12/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mansiaggarwa12/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/mansiaggarwa12/LeetCode/tree/master/0561-array-partition) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mansiaggarwa12/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/mansiaggarwa12/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -321,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/mansiaggarwa12/LeetCode/tree/master/0881-boats-to-save-people) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/mansiaggarwa12/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
