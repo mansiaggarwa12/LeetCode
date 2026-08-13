@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/mansiaggarwa12/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [1710-maximum-units-on-a-truck](https://github.com/mansiaggarwa12/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/mansiaggarwa12/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/mansiaggarwa12/LeetCode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/mansiaggarwa12/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1710-maximum-units-on-a-truck](https://github.com/mansiaggarwa12/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/mansiaggarwa12/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/mansiaggarwa12/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mansiaggarwa12/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
