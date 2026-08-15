@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mansiaggarwa12/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/mansiaggarwa12/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/mansiaggarwa12/LeetCode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/mansiaggarwa12/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/mansiaggarwa12/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mansiaggarwa12/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/mansiaggarwa12/LeetCode/tree/master/0763-partition-labels) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mansiaggarwa12/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mansiaggarwa12/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/mansiaggarwa12/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/mansiaggarwa12/LeetCode/tree/master/0763-partition-labels) |
 | [0917-reverse-only-letters](https://github.com/mansiaggarwa12/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1143-longest-common-subsequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/mansiaggarwa12/LeetCode/tree/master/1392-longest-happy-prefix) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mansiaggarwa12/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/mansiaggarwa12/LeetCode/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mansiaggarwa12/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0763-partition-labels](https://github.com/mansiaggarwa12/LeetCode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/mansiaggarwa12/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/mansiaggarwa12/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
