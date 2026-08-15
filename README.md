@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/mansiaggarwa12/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1024-video-stitching](https://github.com/mansiaggarwa12/LeetCode/tree/master/1024-video-stitching) |
 | [1140-stone-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/1140-stone-game-ii) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/mansiaggarwa12/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1408-string-matching-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/mansiaggarwa12/LeetCode/tree/master/1024-video-stitching) |
 | [1140-stone-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/mansiaggarwa12/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1510-stone-game-iv](https://github.com/mansiaggarwa12/LeetCode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/mansiaggarwa12/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1024-video-stitching](https://github.com/mansiaggarwa12/LeetCode/tree/master/1024-video-stitching) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/mansiaggarwa12/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1710-maximum-units-on-a-truck](https://github.com/mansiaggarwa12/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mansiaggarwa12/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
