@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/mansiaggarwa12/LeetCode/tree/master/1024-video-stitching) |
 | [1140-stone-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/1140-stone-game-ii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/mansiaggarwa12/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mansiaggarwa12/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1408-string-matching-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/mansiaggarwa12/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1024-video-stitching](https://github.com/mansiaggarwa12/LeetCode/tree/master/1024-video-stitching) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/mansiaggarwa12/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mansiaggarwa12/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/mansiaggarwa12/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mansiaggarwa12/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/mansiaggarwa12/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/mansiaggarwa12/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mansiaggarwa12/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/mansiaggarwa12/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mansiaggarwa12/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mansiaggarwa12/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mansiaggarwa12/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting Sort
