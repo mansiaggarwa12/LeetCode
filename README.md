@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mansiaggarwa12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/mansiaggarwa12/LeetCode/tree/master/0062-unique-paths) |
 | [0322-coin-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/mansiaggarwa12/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mansiaggarwa12/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/mansiaggarwa12/LeetCode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/mansiaggarwa12/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/mansiaggarwa12/LeetCode/tree/master/0396-rotate-function) |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/mansiaggarwa12/LeetCode/tree/master/0986-interval-list-intersections) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mansiaggarwa12/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
