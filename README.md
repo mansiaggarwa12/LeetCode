@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/mansiaggarwa12/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1392-longest-happy-prefix](https://github.com/mansiaggarwa12/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/mansiaggarwa12/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mansiaggarwa12/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2000-reverse-prefix-of-word](https://github.com/mansiaggarwa12/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/mansiaggarwa12/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/mansiaggarwa12/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mansiaggarwa12/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/mansiaggarwa12/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/mansiaggarwa12/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mansiaggarwa12/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
