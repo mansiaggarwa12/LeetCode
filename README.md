@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/mansiaggarwa12/LeetCode/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Knapsack Problem
