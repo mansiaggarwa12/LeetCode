@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/mansiaggarwa12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mansiaggarwa12/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mansiaggarwa12/LeetCode/tree/master/0056-merge-intervals) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mansiaggarwa12/LeetCode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mansiaggarwa12/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mansiaggarwa12/LeetCode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/mansiaggarwa12/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Knapsack Problem
