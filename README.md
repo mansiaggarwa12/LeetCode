@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/mansiaggarwa12/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mansiaggarwa12/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1927-sum-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/1927-sum-game) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2000-reverse-prefix-of-word](https://github.com/mansiaggarwa12/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3163-string-compression-iii](https://github.com/mansiaggarwa12/LeetCode/tree/master/3163-string-compression-iii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mansiaggarwa12/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/mansiaggarwa12/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/mansiaggarwa12/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [1927-sum-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/1927-sum-game) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mansiaggarwa12/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mansiaggarwa12/LeetCode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mansiaggarwa12/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mansiaggarwa12/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mansiaggarwa12/LeetCode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/1927-sum-game) |
 ## Rolling Hash
 |  |
 | ------- |
