@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/mansiaggarwa12/LeetCode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/mansiaggarwa12/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/mansiaggarwa12/LeetCode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/mansiaggarwa12/LeetCode/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/mansiaggarwa12/LeetCode/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/mansiaggarwa12/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/mansiaggarwa12/LeetCode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/mansiaggarwa12/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mansiaggarwa12/LeetCode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mansiaggarwa12/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
