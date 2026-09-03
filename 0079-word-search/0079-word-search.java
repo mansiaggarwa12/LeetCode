@@ -1,24 +1,24 @@
 class Solution {
     public boolean exist(char[][] board, String word) {
-        for(int r=0;r<board.length;r++){
-            for(int c=0;c<board[0].length;c++){
-                if(dfs(board,word,r,c,0))return true;
+        int rows = board.length;
+        int cols = board[0].length;
+        boolean [][] visited = new boolean[rows][cols];
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<cols;j++){
+                if(dfs(i,j,0,word,board,visited))return true;
             }
         }
         return false;
     }
-    static boolean dfs(char [][]board, String word, int r, int c, int index){
-        if(index==word.length())return true;
-        if(r<0||r>=board.length||c<0||c>=board[0].length||board[r][c]!=word.charAt(index))return false;
-        char og = board[r][c];
-        board[r][c]='#';
-        boolean found = dfs(board,word,r+1,c,index+1)
-        || dfs(board,word,r-1,c,index+1)
-        || dfs(board,word,r,c+1,index+1)
-        || dfs(board,word,r,c-1,index+1);
-        board[r][c]=og;
-        return found;
-
-
+    boolean dfs(int r, int c, int i,String word, char[][]board,boolean[][]visited){
+        if(i==word.length())return true;
+        if(r<0 || c<0 || r>=board.length || c>=board[0].length || word.charAt(i)!=board[r][c]|visited[r][c])return false;
+        visited[r][c]=true;
+        boolean res = dfs(r+1,c,i+1,word,board,visited)||
+                      dfs(r-1,c,i+1,word,board,visited)||
+                      dfs(r,c+1,i+1,word,board,visited)||
+                      dfs(r,c-1,i+1,word,board,visited);
+        visited[r][c]=false;
+        return res;
     }
 }
