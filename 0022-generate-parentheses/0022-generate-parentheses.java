@@ -1,13 +1,12 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList<>();
-        backtrack(n,0,0,new StringBuilder(), ans);
+        backtrack(n,0,0,new StringBuilder(),ans);
         return ans;
     }
     void backtrack(int n, int open, int close, StringBuilder path, List<String> ans){
         if(path.length()==2*n){
-            ans.add(path.toString());
-            return;
+            ans.add(new String(path.toString()));
         }
         if(open<n){
             path.append('(');
