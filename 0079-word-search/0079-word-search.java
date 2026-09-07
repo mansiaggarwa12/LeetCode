@@ -1,24 +1,43 @@
 class Solution {
     public boolean exist(char[][] board, String word) {
-        int rows = board.length;
-        int cols = board[0].length;
-        boolean [][] visited = new boolean[rows][cols];
-        for(int i=0;i<rows;i++){
-            for(int j=0;j<cols;j++){
-                if(dfs(i,j,0,word,board,visited))return true;
+        int m = board.length;
+        int n = board[0].length;
+        boolean [][] visited = new boolean[m][n];
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(board[i][j] == word.charAt(0)){
+                    if(solve(board,word,i,j,0,visited))
+                    return true;
+                }
             }
         }
         return false;
     }
-    boolean dfs(int r, int c, int i,String word, char[][]board,boolean[][]visited){
-        if(i==word.length())return true;
-        if(r<0 || c<0 || r>=board.length || c>=board[0].length || word.charAt(i)!=board[r][c]|visited[r][c])return false;
-        visited[r][c]=true;
-        boolean res = dfs(r+1,c,i+1,word,board,visited)||
-                      dfs(r-1,c,i+1,word,board,visited)||
-                      dfs(r,c+1,i+1,word,board,visited)||
-                      dfs(r,c-1,i+1,word,board,visited);
-        visited[r][c]=false;
-        return res;
+    boolean solve(
+        char [][]board,
+        String word,
+        int row, 
+        int col,
+        int index,
+        boolean[][]visited
+    ){
+        if(index == word.length()) return true;
+        if(
+            row<0 || row >= board.length ||
+            col<0 || col >= board[0].length
+        )
+        return false;
+        if(visited[row][col])
+        return false;
+        if(board[row][col]!=word.charAt(index))
+        return false;
+        visited[row][col]=true;
+        boolean found = 
+            solve(board,word,row-1,col,index+1,visited)||
+            solve(board,word,row+1,col,index+1,visited)||
+            solve(board,word,row,col-1,index+1,visited)||
+            solve(board,word,row,col+1,index+1,visited);
+        visited[row][col] = false;
+        return found;
     }
 }
