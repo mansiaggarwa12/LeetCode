@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mansiaggarwa12/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/mansiaggarwa12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/mansiaggarwa12/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansiaggarwa12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mansiaggarwa12/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mansiaggarwa12/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mansiaggarwa12/LeetCode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/mansiaggarwa12/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/mansiaggarwa12/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mansiaggarwa12/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1392-longest-happy-prefix](https://github.com/mansiaggarwa12/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1408-string-matching-in-an-array) |
 ## Hash Function
@@ -492,4 +495,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/mansiaggarwa12/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
