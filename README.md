@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/mansiaggarwa12/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mansiaggarwa12/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1408-string-matching-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mansiaggarwa12/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/mansiaggarwa12/LeetCode/tree/master/1652-defuse-the-bomb) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mansiaggarwa12/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0567-permutation-in-string) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mansiaggarwa12/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1652-defuse-the-bomb](https://github.com/mansiaggarwa12/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mansiaggarwa12/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mansiaggarwa12/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/mansiaggarwa12/LeetCode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mansiaggarwa12/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mansiaggarwa12/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mansiaggarwa12/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting Sort
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/mansiaggarwa12/LeetCode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/mansiaggarwa12/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mansiaggarwa12/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mansiaggarwa12/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansiaggarwa12/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Data Stream
@@ -512,4 +516,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mansiaggarwa12/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mansiaggarwa12/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
