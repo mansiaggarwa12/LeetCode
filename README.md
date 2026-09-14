@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/mansiaggarwa12/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/mansiaggarwa12/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mansiaggarwa12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/mansiaggarwa12/LeetCode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mansiaggarwa12/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/mansiaggarwa12/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/mansiaggarwa12/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mansiaggarwa12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/mansiaggarwa12/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/mansiaggarwa12/LeetCode/tree/master/0396-rotate-function) |
