@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/mansiaggarwa12/LeetCode/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mansiaggarwa12/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/mansiaggarwa12/LeetCode/tree/master/0622-design-circular-queue) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mansiaggarwa12/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mansiaggarwa12/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mansiaggarwa12/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mansiaggarwa12/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0763-partition-labels](https://github.com/mansiaggarwa12/LeetCode/tree/master/0763-partition-labels) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mansiaggarwa12/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mansiaggarwa12/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/mansiaggarwa12/LeetCode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mansiaggarwa12/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/mansiaggarwa12/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/mansiaggarwa12/LeetCode/tree/master/0763-partition-labels) |
 | [0917-reverse-only-letters](https://github.com/mansiaggarwa12/LeetCode/tree/master/0917-reverse-only-letters) |
