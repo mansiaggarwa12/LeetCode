@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mansiaggarwa12/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansiaggarwa12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/mansiaggarwa12/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/mansiaggarwa12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mansiaggarwa12/LeetCode/tree/master/0283-move-zeroes) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mansiaggarwa12/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/mansiaggarwa12/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mansiaggarwa12/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/mansiaggarwa12/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mansiaggarwa12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mansiaggarwa12/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mansiaggarwa12/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mansiaggarwa12/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mansiaggarwa12/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/mansiaggarwa12/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mansiaggarwa12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/mansiaggarwa12/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mansiaggarwa12/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mansiaggarwa12/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/mansiaggarwa12/LeetCode/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mansiaggarwa12/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -546,4 +550,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mansiaggarwa12/LeetCode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mansiaggarwa12/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mansiaggarwa12/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
