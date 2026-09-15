@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mansiaggarwa12/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mansiaggarwa12/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/mansiaggarwa12/LeetCode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mansiaggarwa12/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0567-permutation-in-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/mansiaggarwa12/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/mansiaggarwa12/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mansiaggarwa12/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/mansiaggarwa12/LeetCode/tree/master/0443-string-compression) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/mansiaggarwa12/LeetCode/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mansiaggarwa12/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mansiaggarwa12/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/mansiaggarwa12/LeetCode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/mansiaggarwa12/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mansiaggarwa12/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
