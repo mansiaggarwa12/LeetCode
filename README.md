@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/mansiaggarwa12/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/mansiaggarwa12/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mansiaggarwa12/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mansiaggarwa12/LeetCode/tree/master/0056-merge-intervals) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mansiaggarwa12/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/mansiaggarwa12/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/mansiaggarwa12/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/mansiaggarwa12/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mansiaggarwa12/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mansiaggarwa12/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mansiaggarwa12/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mansiaggarwa12/LeetCode/tree/master/0074-search-a-2d-matrix) |
