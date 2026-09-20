@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/mansiaggarwa12/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/mansiaggarwa12/LeetCode/tree/master/0622-design-circular-queue) |
 ## Hash Table
 |  |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mansiaggarwa12/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/mansiaggarwa12/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/mansiaggarwa12/LeetCode/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Game Theory
