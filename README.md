@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mansiaggarwa12/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/mansiaggarwa12/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0494-target-sum) |
+| [0525-contiguous-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/mansiaggarwa12/LeetCode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mansiaggarwa12/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mansiaggarwa12/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mansiaggarwa12/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/mansiaggarwa12/LeetCode/tree/master/0645-set-mismatch) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/mansiaggarwa12/LeetCode/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1480-running-sum-of-1d-array) |
