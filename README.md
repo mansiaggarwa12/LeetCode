@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mansiaggarwa12/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansiaggarwa12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mansiaggarwa12/LeetCode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/mansiaggarwa12/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/mansiaggarwa12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mansiaggarwa12/LeetCode/tree/master/0283-move-zeroes) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/mansiaggarwa12/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansiaggarwa12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/mansiaggarwa12/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/mansiaggarwa12/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/mansiaggarwa12/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0416-partition-equal-subset-sum) |
